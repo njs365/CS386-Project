@@ -1,10 +1,10 @@
 # Inception
 
-Group 6 - TBD
+Group 6 - MyGroceryAssistant
 
 Date - February 3, 2022
 
-Group Members - Connor, Luke, Jack, Justin, Jonny, nick
+Group Members - Connor, Luke, Jack, Justin, Jonny, Nick
 
 ## Introduction
 
