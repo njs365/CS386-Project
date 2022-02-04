@@ -1,7 +1,9 @@
 # Inception
 
 Group 6 - TBD
+
 Date - February 3, 2022
+
 Group Members - Connor, Luke, Jack, Justin, Jonny, nick
 
 ## Introduction
@@ -30,8 +32,11 @@ Initial Consumer Segments:
 **Summary:** Thought that the idea of a grocery assistant application that can track your needed items and recommend stores based on pricing would be a miracle in her life. Was interested in the app as a budgeting and time saving utility. 
 
 **Interviewer:** Luke Frazer
+
 **Interviewee:** Katie Renaud
+
 **When:** 2/3/2022
+
 **Consumer Segments:** College student, Frugal, Meal Planner, Budgeter
 
 **Key Insights**
@@ -65,8 +70,11 @@ Initial Consumer Segments:
 **Summary:** Liked the idea of a budgeting shopping app but was more interested in just helping him shop in general with price finders, item locators, sales finders, etc.  
 
 **Interviewer:** Luke Frazer
+
 **Interviewee:** Bill Frazer
+
 **When:** 2/3/2022
+
 **Consumer Segments:** Middle Class, Older generation
 
 **Key Insights**
@@ -93,7 +101,8 @@ Initial Consumer Segments:
 * Price recommendation (MUST)
 * Seasonal items (Nice)
 
-**Final value proposition and consumer segments**
+## Final value proposition and consumer segments
+
 * Final Value Proposition: 
 
 * Consumer Segments: 
