@@ -92,3 +92,8 @@ Initial Consumer Segments:
 * Calendar (Nice)
 * Price recommendation (MUST)
 * Seasonal items (Nice)
+
+**Final value proposition and consumer segments**
+* Final Value Proposition: 
+
+* Consumer Segments: 
