@@ -151,6 +151,70 @@ The filters would be great, filter out some of those gross brands.
 -Aisle locations (low priority)
 -Tab for coupons / sales (nice to have)
 
+### Interview 5: 
+
+**Summary:** Definitely thought this app is a good idea. As a software developer, Travis came up with some ideas I hadn't thought of and brought some great insights to the logistics of the app. 
+
+**Interviewer:** Jack Gilliam
+
+**Interviewee:** Travis Weber
+
+**When:** 2/2/2022
+
+**Consumer Segments:** College student, software developer, outdoors person
+
+**Key Insights**
+
+* Would be nice to compare prices among stores for individual items as well as entire shopping cart
+* The app should be simple to use with a minimalist approach to the interface
+* Quick and intuitive to use, especially when creating shopping list
+* Should be able to add things to the list extremely easily and quickly
+* Would appreciate it if we created an API for others to use and modify to their liking
+
+**Representational Quotes**
+
+* "You should be able to add things to your grocery list easily, I always add items when I think of them while cooking or doing other things"
+* "I like apps best when they are straight-forward and nothing too extra"
+* "I would definitely use this app if it was available and well put together"
+**Assessment:**
+
+* Simple UI (MUST)
+* Quick and easy Shopping Lists (MUST)
+* Price check (high priority)
+* API available (low priority)
+
+### Interview 6: 
+
+**Summary:** Was really interested in the app focusing on dietary needs. Wanted the app to provide information and suggestions to people's diets
+
+**Interviewer:** Jack Gilliam
+
+**Interviewee:** McLaren Shattuck
+
+**When:** 2/3/2022
+
+**Consumer Segments:** College student, Fitness guru, healthy eater, Personal trainer
+
+**Key Insights**
+
+* Should check if you have added a balanced diet
+* Should have a section to make sure items are meeting dietary needs and have suggestions for items with nutrients you are lacking in your diet
+* Calendar to plan ingredients for meals
+* Should have another section for recipe suggestions 
+
+**Representational Quotes**
+
+* It would be nice to have an all-in-one app for all food/cooking related items
+* I would really appreciate if it tracked dietary values and gave suggestions about that
+* I could see this being BIG
+
+**Assessment:**
+
+* Diet tracker (MUST)
+* Meal calendar (medium priority)
+* Food group suggestions (medium priority)
+
+
 
 ## Final value proposition and consumer segments
 
