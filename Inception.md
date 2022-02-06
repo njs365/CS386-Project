@@ -101,6 +101,57 @@ Initial Consumer Segments:
 * Price recommendation (MUST)
 * Seasonal items (Nice)
 
+### Interview 3:
+
+**Interviewee**: Beth Dufek
+**Interviewer**: Justin Eggan
+**When**: Thursday, 2/3/2022, 5:30PM
+**Consumer Segments**: College Student, Student worker, light spender (on groceries)
+
+**Key Insights**:
+- Prefers to buy things on sale
+- Only really shops at one or two stores (Safeway/Basha’s)
+- Would like if she could ‘favorite’ items
+- The simpler the ui, the better
+- Have options to save grocery items for different ingredients (i.e save list for spaghetti)
+- Filters would be nice.
+
+**Representational Quotes**:
+-I’d love it if the app could compare Safeway to Basha’s
+-If it was free, I could see it being used every time I shop!
+
+**Assessments**:
++Filters (nice)
++Favoriting system (High priority)
++Compare stores (High priority)
++Simple UI (High priority)
+
+### Interview 4
+
+**Interviewee**: Sebastian Gentry
+**Interviewer**: Justin Eggan
+**When**: Friday, 2/4/2022, 8:00PM
+**Consumer Segments**: College graduate, has full-time job, “healthy-ish” eater
+
+**Key Insights**:
+-Does not care if things are on sale, will buy ingredients if needs them
+-Shops wherever was closest to whatever he was doing that day (Costco if coming home from work, safeway if on weekend, etc.)
+-Would be nice if he could sort similar items by price (i.e farfalle from different brands)
+-Would be neat if it showed aisle locations, but not ‘a deal-breaker’
+-A tab for keeping track of whatever coupons are available or were mailed out would also be neat
+-Filters would be appreciated
+
+**Representational Quotes**:
+It would definitely reduce my number of trips to the store!
+The filters would be great, filter out some of those gross brands.
+
+**Assessment**:
+-Filters (high priority)
+-Price-sorting (high priority)
+-Aisle locations (low priority)
+-Tab for coupons / sales (nice to have)
+
+
 ## Final value proposition and consumer segments
 
 * Final Value Proposition: 
