@@ -151,6 +151,39 @@ The filters would be great, filter out some of those gross brands.
 -Aisle locations (low priority)
 -Tab for coupons / sales (nice to have)
 
+### Interview 5:
+
+**Interviewer**: Nick Shugrue
+**Interviewee**: Zach Schreiner
+**When**: Thursday, 2/5/2022
+**Consumer Segments**: College student, Gym go-er, Economical
+
+**Key Insights**:
+
+Show cheapest options for healthy foods.
+Fequently forgets items due to too many choices.
+Frustruated when it is not clear that items are out of stock.
+Ablility to place certain items on hold.
+Shows competitors prices(price match)
+Request items to be delivered to store.
+User friendly
+Show reviews on said item.
+(maybe) Sends grocey list to store and items are selected for pick up.
+
+**Representational Quotes**:
+
+I hate driving to the stroe only to find the one item I was looking for was out of stock.
+I tend to forget certain items if I do not make a list.
+This app would save me a lot of time and money.
+
+**Assessment**:
+Grocery list - Must have
+User firendly UI - Must have
+Budget tracker - Must have
+Reviews - Must have
+Seasonal items - Nice to have
+Coupons -Nice to have
+
 
 ## Final value proposition and consumer segments
 
