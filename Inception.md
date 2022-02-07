@@ -151,6 +151,77 @@ The filters would be great, filter out some of those gross brands.
 -Aisle locations (low priority)
 -Tab for coupons / sales (nice to have)
 
+### Interview 5: 
+
+**Summary:** Simple, easy to use UI. An option to input a budget and graphs that will show how that budget is being approached as you shop. Make sure the main focus is on budgeting to keep the product from being one dimensional on groceries. Notifications could be useful in some form. 
+
+**Interviewer:** Connor Swingle
+
+**Interviewee:** Sean Swingle
+
+**When:** 2/3/2022
+
+**Consumer Segments:** College student, Budgeter
+
+**Key Insights**
+
+* Need a very clear list of items. 
+* Budget Tracker
+* Simple, easy to use UI. 
+
+**Representational Quotes**
+
+* “I am at the store all the time. This would be very helpful to me.” 
+* “Notifications and reminders could be useful but not how you explained them.”
+* “Graph for how much spent monthly on groceries would be awesome”
+
+**Hypotheses that were validated**
+
+* This would be good for budgeting college students and forgetful people. 
+* He was worried about having to input everything the first few times with no clear gain until the portfolio was established. 
+
+
+**Assessment:**
+
+* Simple UI (MUST)
+* Budget counter (MUST)
+* Graph (NICE)
+* Notifications (DONT CARE)
+
+### Interview 6: 
+
+**Summary:** Our hypotheses were right in that the way we have conceived the product, it is not useful to people who are not on a tight grocery budget. It also doesn’t appeal to those who have formed shopping habits and make their own list by hand. We need to think of something that could work our product back into the market for people who prefer shopping with a physical list.
+
+**Interviewer:** Connor Swingle
+
+**Interviewee:** Paula Swingle
+
+**When:** 2/5/2022
+
+**Consumer Segments:** Grocery Shopper, Not on a tight budget
+
+**Key Insights**
+
+* UI must be very intuitive and easy to use 
+* A more complex reminder system. 
+* Need a hook to change people's shopping habits. 
+
+**Representational Quotes**
+
+* “I already have a system when I shop, I don’t need an app” 
+* “I might find the reminders useful if I can put more than just groceries”
+
+
+**Hypotheses that were validated**
+
+* This should not target people who aren’t on a tight grocery budget. 
+* The UI should be simple and functional. 
+
+**Assessment:**
+
+* Simple UI (MUST)
+* Reminders (MUST
+
 ### Interview 7:
 
 **Interviewer**: Nick Shugrue
@@ -187,9 +258,8 @@ Reviews - Must have
 Seasonal items - Nice to have
 Coupons -Nice to have
 
-
 ## Final value proposition and consumer segments
 
-* Final Value Proposition: 
+* Final Value Proposition: MyGroceryAssistant is a simple, organized and easy to use way to help make budgeting and shopping for groceries a breeze. 
 
-* Consumer Segments: 
+* Consumer Segments: College Students, Budgeters, College Graduates, Non-Budgeters, Shoppers, Healthy Eaters. 
