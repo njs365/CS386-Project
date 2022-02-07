@@ -104,8 +104,11 @@ Initial Consumer Segments:
 ### Interview 3:
 
 **Interviewee**: Beth Dufek
+
 **Interviewer**: Justin Eggan
+
 **When**: Thursday, 2/3/2022, 5:30PM
+
 **Consumer Segments**: College Student, Student worker, light spender (on groceries)
 
 **Key Insights**:
@@ -129,8 +132,11 @@ Initial Consumer Segments:
 ### Interview 4
 
 **Interviewee**: Sebastian Gentry
+
 **Interviewer**: Justin Eggan
+
 **When**: Friday, 2/4/2022, 8:00PM
+
 **Consumer Segments**: College graduate, has full-time job, “healthy-ish” eater
 
 **Key Insights**:
