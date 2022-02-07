@@ -8,7 +8,7 @@ Group Members - Connor, Luke, Jack, Justin, Jonny, Nick
 
 ## Introduction
 
-Grocery shopping is a consistent part of all of our lives. With so many items to remember, options to choose from, and stores to go to, it can be easy to forget essential things that you need. MyGroceryAssistant (MGA) aims to fix many of the troubles of shopping. By analyzing what you buy at the store, MGA tracks your essential items and reminds you what you need and when. A portfolio is created specifically for you using your shopping habbits including what you buy, when you buy it, and where you go. It will even scan nearby stores to help you with the cheapest prices and best availability. Seasonal items will even be tracked, helping you to remember to get your fruits and vegetables at the right times. Will all of these amazing features, MGA will help you keep your shopping neat and organized.  
+Grocery shopping is a consistent part of all of our lives. With so many items to remember, options to choose from, and stores to go to, it can be easy to forget essential things that you need. MyGroceryAssistant (MGA) aims to fix many of the troubles of shopping. By analyzing what you buy at the store, MGA tracks your essential items and reminds you what you need and when. A portfolio is created specifically for you using your shopping habits including what you buy, when you buy it, and where you go. It will even scan nearby stores to help you with the cheapest prices and best availability. Seasonal items will even be tracked, helping you to remember to get your fruits and vegetables at the right times. Will all of these amazing features, MGA will help you keep your shopping neat and organized.  
 
 ## Initial Value Proposition and Consumer Segments
 
@@ -88,7 +88,7 @@ Initial Consumer Segments:
 
 **Representational Quotes**
 
-* Definetely sounds like a helpful app!
+* Definitely sounds like a helpful app!
 * The location and price finding would be the best features for me.
 * I would love a sales and coupons section
 
@@ -241,9 +241,9 @@ The filters would be great, filter out some of those gross brands.
 **Key Insights**:
 
 Show cheapest options for healthy foods.
-Fequently forgets items due to too many choices.
-Frustruated when it is not clear that items are out of stock.
-Ablility to place certain items on hold.
+Frequently forgets items due to too many choices.
+Frustrated when it is not clear that items are out of stock.
+Ability to place certain items on hold.
 Shows competitors prices(price match)
 Request items to be delivered to store.
 User friendly
@@ -252,7 +252,7 @@ Show reviews on said item.
 
 **Representational Quotes**:
 
-I hate driving to the stroe only to find the one item I was looking for was out of stock.
+I hate driving to the store only to find the one item I was looking for was out of stock.
 I tend to forget certain items if I do not make a list.
 This app would save me a lot of time and money.
 
