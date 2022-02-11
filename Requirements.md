@@ -16,7 +16,7 @@ Group Members - Connor, Luke, Jack, Justin, Jonny, Nick
 
 ## 2. Stakeholders
 
-## 3. Functional Requirements
+## 3. Functional Requirements (Features)
 
 ## 4. Non-Functional Requirements
 
