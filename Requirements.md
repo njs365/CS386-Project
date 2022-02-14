@@ -54,7 +54,8 @@ If in step 3 of the basic flow a specfic item is out of stock, then
 Their grocery list would be picked and ready for curbside pickup.
   
 ## 7. User Stories
+
 As a developer I want to make a price match feature to give the user the best possible price on an item.(Priority, approximately 10 hours)
 As a user I want to be able to update grocery list so I can constantly optimize my list to suit my needs(Priority #1, approximately 2 hours)
   
-## Issue Tracker
+## 8. Issue Tracker
