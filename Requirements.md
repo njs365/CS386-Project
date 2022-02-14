@@ -9,6 +9,8 @@ Group Members - Connor, Luke, Jack, Justin, Jonny, Nick
 ## 1. Positioning
 
 ### 1.1. Problem Statement
+The problem of unorganized/unoptimized grocery shopping affects everyone who has ever shopped for groceries;
+the impact of which can cost you finically as well as waste time with extra grocery trips.
 
 ### 1.2. Product Position Statement
 
@@ -30,4 +32,4 @@ Group Members - Connor, Luke, Jack, Justin, Jonny, Nick
 
 ## 7. User Stories
 
-## Issue Tracker
+## 8. Issue Tracker
